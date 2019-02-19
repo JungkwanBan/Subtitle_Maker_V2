@@ -1,0 +1,11 @@
+.idea/
+.gradle/
+
+*.sbv
+*.srt
+*.ass
+*.xlsx
+
+client_secret.json
+.sbvmaker/StoredCredential
+recentValue.txt

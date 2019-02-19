@@ -1,0 +1,41 @@
+
+#header {
+    -fx-font-size: 12px;
+    -fx-fill: #4B0082;
+}
+
+#subHeader {
+    -fx-font-size: 12px;
+    -fx-fill: #6495ED;
+}
+
+#normal {
+    -fx-font-size: 12px;
+    -fx-fill: #000000;
+}
+
+#error {
+    -fx-font-size: 12px;
+    -fx-fill: #8B0000;
+}
+
+#progress {
+    -fx-font-size: 12px;
+    -fx-fill: #9400D3;
+}
+
+#notice {
+    -fx-font-size: 12px;
+    -fx-fill: #663399;
+}
+
+#delete {
+    -fx-font-size: 12px;
+    -fx-fill: #FF0000;
+}
+
+#insert {
+    -fx-font-size: 12px;
+    -fx-fill: #0000ff;
+}
+
